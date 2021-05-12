@@ -1,2 +1,3 @@
 Hi I am creating my first file in git
-I am creating my file in local repository
+Now i learnt the git commands git add,git status and git commit
+git log and git show
